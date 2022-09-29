@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "lodash": "^4.17.19",
-    "remarkable-typescript": "^1.1.2",
+    "remarkable-typescript": "^1.1.3",
     "uuid": "^8.3.2",
     "zapier-platform-core": "10.2.0"
   },
